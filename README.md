@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+If you want to keep using React 18+, consider upgrading to the latest version of Material-UI, which is now called MUI. MUI v5 supports React 18:
+command: npm install @mui/material @emotion/react @emotion/styled
 
 ## Available Scripts
 
