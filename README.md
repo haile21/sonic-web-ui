@@ -2,7 +2,7 @@
 
 If you want to keep using React 18+, consider upgrading to the latest version of Material-UI, which is now called MUI. MUI v5 supports React 18.
 Run this command:
-npm install @mui/material @emotion/react @emotion/styled
+### npm install @mui/material @emotion/react @emotion/styled
 
 ## Available Scripts
 
